@@ -1,5 +1,3 @@
-# Near-Earth-Objects-2024-NASA-Space-Apps-Challenge-Mindcraft
-Since a mechanical model of the solar system was presented to Charles Boyle, 4th Earl of Orrery, in 1713, such models have been referred to as orreries. The first orreries were physical models, but today we can use numerous tools to create virtual orreries that have many more features than their ancient mechanical counterparts. 
 
 
 <body>
@@ -49,11 +47,40 @@ Since a mechanical model of the solar system was presented to Charles Boyle, 4th
     <p>
         Embrace this opportunity to create an engaging and educational tool that showcases the wonders of our 
         solar system. Good luck with your project! 🌠
-    </p>
+<h1>🚀 Project Team</h1>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="https://github.com/user-attachments/assets/b61233f2-a0fa-47de-a3f9-6007b1c1d453" alt="Salman Derdeb">
+            <h2>Salman Derdeb</h2>
+            <p><strong>Role:</strong> Designer</p>
+            <p><strong>Skills:</strong> Graphic Design, UX/UI</p>
+        </div>
+        <div class="team-member">
+            <img src="https://github.com/user-attachments/assets/331fc805-78e1-48ea-b441-33531ead54f9" alt="Walid Benslimane">
+            <h2>Walid Benslimane</h2>
+            <p><strong>Role:</strong> Web Developer</p>
+            <p><strong>Skills:</strong> HTML, CSS, JavaScript</p>
+        </div>
+        <div class="team-member">
+            <img src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri">
+            <h2>Mortada Taidi Laamiri</h2>
+            <p><strong>Role:</strong> Documentation</p>
+            <p><strong>Skills:</strong> Technical Writing, Project Management</p>
+        </div>
+        <div class="team-member">
+            <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri">
+            <h2>Taha Taidi Laamiri</h2>
+            <p><strong>Role:</strong> Team Leader & Documentation</p>
+            <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
+        </div>
+    </div>
+
 </body>
 </html>
 
 
 
 
+</body>
+</html>
 
