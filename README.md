@@ -81,7 +81,7 @@
       <p><strong>Role:</strong> Graphic Designer</p>
       <p><strong>Skills:</strong> Design, Programming, Robotics</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" >
+    <td><img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" width="250" height="250">
       <h2>Mourtada TAIDI LAAMIRI</h2>
       <h2>Science student</h2>
       <p><strong>Role:</strong> Documentation</p>
