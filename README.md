@@ -26,7 +26,7 @@
     <h3>📚 Resources</h3>
     <p>
         Utilize NASA datasets, free open-source 3D graphics libraries, and more. 
-        The <a href="https://www.nasa.gov">NASA website</a> is a great starting point for available data.
+        The <a href="https://www.nasa.gov" target="_blank">NASA website</a> is a great starting point for available data.
     </p>
     <h2>🌟 Features</h2>
     <ul>
