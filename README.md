@@ -52,61 +52,28 @@
 
  ## Team Members
 
-<div style="display: flex; justify-content: space-around;">
-
-<div style="text-align: center; justify-content=center;">
-    <img src="https://github.com/user-attachments/assets/b61233f2-a0fa-47de-a3f9-6007b1c1d453" alt="Salman Derdeb" width="150">
-    <h2>Salman Derdeb</h2>
-    <p><strong>Role:</strong> Designer</p>
-    <p><strong>Skills:</strong> Graphic Design, UX/UI</p>
-</div>
-
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/331fc805-78e1-48ea-b441-33531ead54f9" alt="Walid Benslimane" width="150">
-    <h2>Walid Benslimane</h2>
-    <p><strong>Role:</strong> Web Developer</p>
-    <p><strong>Skills:</strong> HTML, CSS, JavaScript</p>
-</div>
-
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri" width="150">
-    <h2>Mortada Taidi Laamiri</h2>
-    <p><strong>Role:</strong> Documentation</p>
-    <p><strong>Skills:</strong> Technical Writing, Project Management</p>
-</div>
-
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri" width="150">
-    <h2>Taha Taidi Laamiri</h2>
-    <p><strong>Role:</strong> Team Leader & Documentation</p>
-    <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
-</div>
-
-</div>
-
 
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri"  width="300">
-         <h2>Taha Taidi Laamiri</h2>
+        <h1>Taha TAIDI LAAMIRI</h1>
+    <h2>Industrial Engineering Studenti</h2>
     <p><strong>Role:</strong> Team Leader & Documentation</p>
     <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Omar Elarroud" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Omar Elarroud" width="300">
+        <h1>Omar Elarroud</h1>
+        <h2>Software engineer</h2>
+       <p> Role: Web development</p>
+       <p>Skills: UI/UX, Web development, App development</p>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300">
+        <h2>Soufaine GHAZOUANE</h2>
+        <p></p>
+        <p></p>
+    </td>
   </tr>
-  <tr>
-    <td> <h2 style="text-align:center;">Taha Taidi Laamiri</h2>
-    <p><strong>Role:</strong> Team Leader & Documentation</p>
-    <p><strong>Skills:</strong> Leadership, Writing, Coordination</p></td>
-    <td><p>Omar EL ARROUD
-Software engineer
-
-Role: Web development
-
-Skills: UI/UX, Web development, App development</p></td>
-    <td><img src="https://github.com/user-attachments/assets/7bb37858-1f3b-4269-96df-d405ea4d56e2" alt="Extended Arm View" width="300"></td>
-  </tr>
+  </table>
 
 
 
