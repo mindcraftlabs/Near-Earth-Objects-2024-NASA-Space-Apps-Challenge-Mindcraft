@@ -67,7 +67,7 @@
        <p> Role: Web development</p>
        <p>Skills:Web development, App development</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300">
+    <td><img src="https://github.com/user-attachments/assets/6fe04c47-3c90-492c-bd40-a7436ff193d1"  width="300">
         <h2>Soufaine GHAZOUANE</h2>
         <h2>3D Artist</h2>
         <p>Role: 3D Designer</p>
