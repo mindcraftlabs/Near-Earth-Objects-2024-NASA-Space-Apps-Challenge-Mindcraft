@@ -49,48 +49,52 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri" width="250" height="250">
-      <h2>Taha TAIDI LAAMIRI</h2>
+    <td>
+      <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri" width="250" height="250">
+      <h2><a href="https://github.com/taha-taidi" target="_blank">Taha TAIDI LAAMIRI</a></h2>
       <h2>Industrial Engineering</h2>
       <p><strong>Role:</strong> Team Leader & Documentation</p>
       <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/ed6accf1-7571-4787-beb1-b06d742ddf7b" alt="Omar Elarroud" width="250" height="250">
-      <h2>Omar Elarroud</h2>
-      <h2>Software engineer</h2>
-      <p><strong>Role:</strong> Web development</p>
-      <p><strong>Skills:</strong> Web development, App development</p>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ed6accf1-7571-4787-beb1-b06d742ddf7b" alt="Omar Elarroud" width="250" height="250">
+      <h2><a href="https://github.com/omar-elarroud" target="_blank">Omar Elarroud</a></h2>
+      <h2>Software Engineer</h2>
+      <p><strong>Role:</strong> Web Development</p>
+      <p><strong>Skills:</strong> Web Development, App Development</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/6fe04c47-3c90-492c-bd40-a7436ff193d1" alt="Soufaine GHAZOUANE" width="250" height="250">
-      <h2>Soufaine GHAZOUANE</h2>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6fe04c47-3c90-492c-bd40-a7436ff193d1" alt="Soufaine GHAZOUANE" width="250" height="250">
+      <h2><a href="https://github.com/soufaine-ghazouane" target="_blank">Soufaine GHAZOUANE</a></h2>
       <h2>3D Artist</h2>
       <p><strong>Role:</strong> 3D Designer</p>
       <p><strong>Skills:</strong> 3D Modeling, 3D Animation, VFX</p>
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c4e0f643-df81-4683-a413-2296e6527f47" alt="Walid Ben Slimane" width="250" height="250">
-      <h2>Walid Ben Slimane</h2>
-      <h2>Tech student</h2>
-      <p><strong>Role:</strong> Web development</p>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c4e0f643-df81-4683-a413-2296e6527f47" alt="Walid Ben Slimane" width="250" height="250">
+      <h2><a href="https://github.com/walid-ben-slimane" target="_blank">Walid Ben Slimane</a></h2>
+      <h2>Tech Student</h2>
+      <p><strong>Role:</strong> Web Development</p>
       <p><strong>Skills:</strong> Robotics, Programming, 3D Design</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/70c6ed95-7fce-4ee0-840e-6f5b5265e15e" alt="Salmane Derdeb" width="250" height="250">
-      <h2>Salmane Derdeb</h2>
-      <h2>Science student</h2>
+    <td>
+      <img src="https://github.com/user-attachments/assets/70c6ed95-7fce-4ee0-840e-6f5b5265e15e" alt="Salmane Derdeb" width="250" height="250">
+      <h2><a href="https://github.com/salmane-derdeb" target="_blank">Salmane Derdeb</a></h2>
+      <h2>Science Student</h2>
       <p><strong>Role:</strong> Graphic Designer</p>
       <p><strong>Skills:</strong> Design, Programming, Robotics</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" width="250" height="250">
-      <h2>Mourtada TAIDI LAAMIRI</h2>
-      <h2>Science student</h2>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" width="250" height="250">
+      <h2><a href="https://github.com/mourtada-taidi-laamiri" target="_blank">Mourtada TAIDI LAAMIRI</a></h2>
+      <h2>Science Student</h2>
       <p><strong>Role:</strong> Documentation</p>
       <p><strong>Skills:</strong> Robotics, Programming, 3D Design</p>
     </td>
   </tr>
 </table>
-
-
 
 
 </body>
