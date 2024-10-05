@@ -57,7 +57,7 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri"  width="300">
         <h1>Taha TAIDI LAAMIRI</h1>
-    <h2>Industrial Engineering Studenti</h2>
+    <h2>Industrial Engineering</h2>
     <p><strong>Role:</strong> Team Leader & Documentation</p>
     <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
     </td>
@@ -68,9 +68,10 @@
        <p>Skills: UI/UX, Web development, App development</p>
     </td>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300">
-        <h2>Soufaine GHAZOUANE</h2>
-        <p></p>
-        <p></p>
+        <h1>Soufaine GHAZOUANE</h1>
+        <h2>3D Artist</h2>
+        <p>Role: 3D Designer</p>
+        <p>Skills: 3D Modeling, 3D Animation, VFX</p>
     </td>
   </tr>
   </table>
