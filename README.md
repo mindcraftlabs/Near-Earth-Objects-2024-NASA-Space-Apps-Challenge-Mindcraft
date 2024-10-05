@@ -87,7 +87,7 @@
                 <p><strong>Skills:</strong> Design, Programming, Robotics</p>
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" width="300" height="300" style="border-radius: 50%;">
+                <img src="https://github.com/user-attachments/assets/5c9d1a28-243c-4c6f-8052-82998c2a2ced" alt="Mourtada TAIDI LAAMIRI" width="250" height="250" style="border-radius: 50%;">
                 <h2><a href="https://github.com/taidimortada" target="_blank">Mourtada TAIDI LAAMIRI</a> 📑</h2>
                 <h3>📚 Science Student</h3>
                 <p><strong>Role:</strong> Documentation</p>
