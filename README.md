@@ -51,7 +51,7 @@
         <tr>
             <td>
                 <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri" width="250" height="250" style="border-radius: 50%;">
-                <a href="https://example.com" target="_blank">Click me</a>
+                 <h3><a href="https://github.com/DexterTaha" target="_blank">Taha TAIDI LAAMIRI</a> 🏆</h3>
                 <h3>📚 Industrial Engineering</h3>
                 <p><strong>Role:</strong> Team Leader & Documentation</p>
                 <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
