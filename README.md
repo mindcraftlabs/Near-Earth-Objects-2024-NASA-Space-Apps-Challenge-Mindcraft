@@ -62,7 +62,7 @@
             <p><strong>Skills:</strong> HTML, CSS, JavaScript</p>
         </div>
         <div class="team-member">
-            <img src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri">
+            <img height="50px" src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri">
             <h2>Mortada Taidi Laamiri</h2>
             <p><strong>Role:</strong> Documentation</p>
             <p><strong>Skills:</strong> Technical Writing, Project Management</p>
