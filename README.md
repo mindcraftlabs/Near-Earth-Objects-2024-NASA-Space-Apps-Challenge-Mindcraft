@@ -87,7 +87,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri"  width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri"  width="300">
+         <h2>Taha Taidi Laamiri</h2>
+    <p><strong>Role:</strong> Team Leader & Documentation</p>
+    <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
+    </td>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Omar Elarroud" width="300"></td>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300"></td>
   </tr>
