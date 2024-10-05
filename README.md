@@ -65,7 +65,7 @@
             </td>
             <td>
                 <img src="https://github.com/user-attachments/assets/6fe04c47-3c90-492c-bd40-a7436ff193d1" alt="Soufaine GHAZOUANE" width="250" height="250" style="border-radius: 50%;">
-                <h3><a href="https://www.instagram.com/reality_faker/" target="_blank">Soufaine GHAZOUANE</a> 🎨</h3>
+                <h3><a target="_blank" href="https://www.instagram.com/reality_faker/" >Soufaine GHAZOUANE</a> 🎨</h3>
                 <h3>🎨 3D Artist</h3>
                 <p><strong>Role:</strong> 3D Designer</p>
                 <p><strong>Skills:</strong> 3D Modeling, 3D Animation, VFX</p>
