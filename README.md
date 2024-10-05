@@ -54,7 +54,7 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-<div style="text-align: center;">
+<div style="text-align: center; justify-content=center;">
     <img src="https://github.com/user-attachments/assets/b61233f2-a0fa-47de-a3f9-6007b1c1d453" alt="Salman Derdeb" width="150">
     <h2>Salman Derdeb</h2>
     <p><strong>Role:</strong> Designer</p>
