@@ -47,9 +47,6 @@
     <p>
         Embrace this opportunity to create an engaging and educational tool that showcases the wonders of our 
         solar system. Good luck with your project! 🌠
-<h1>🚀 Project Team</h1>
-  
-
  ## Team Members
 
 
