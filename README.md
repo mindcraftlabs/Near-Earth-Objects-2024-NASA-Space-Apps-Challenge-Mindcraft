@@ -92,10 +92,15 @@
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300"></td>
   </tr>
   <tr>
-    <td> <h2>Taha Taidi Laamiri</h2>
+    <td> <h2 style="text-align:center;">Taha Taidi Laamiri</h2>
     <p><strong>Role:</strong> Team Leader & Documentation</p>
     <p><strong>Skills:</strong> Leadership, Writing, Coordination</p></td>
-    <td><img src="https://github.com/user-attachments/assets/ad658054-3e9b-406a-a45b-c1b9d133fd08" alt="Top View" width="300"></td>
+    <td><p>Omar EL ARROUD
+Software engineer
+
+Role: Web development
+
+Skills: UI/UX, Web development, App development</p></td>
     <td><img src="https://github.com/user-attachments/assets/7bb37858-1f3b-4269-96df-d405ea4d56e2" alt="Extended Arm View" width="300"></td>
   </tr>
 
