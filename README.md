@@ -65,7 +65,7 @@
         <h2>Omar Elarroud</h2>
         <h2>Software engineer</h2>
        <p> Role: Web development</p>
-       <p>Skills: UI/UX, Web development, App development</p>
+       <p>Skills:Web development, App development</p>
     </td>
     <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Soufiane Ghazouane"  width="300">
         <h2>Soufaine GHAZOUANE</h2>
