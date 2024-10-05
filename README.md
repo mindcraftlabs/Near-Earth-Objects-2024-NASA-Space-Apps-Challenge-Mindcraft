@@ -74,6 +74,26 @@
         <p>Skills: 3D Modeling, 3D Animation, VFX</p>
     </td>
   </tr>
+     <tr>
+    <td><img src="https://github.com/user-attachments/assets/c4e0f643-df81-4683-a413-2296e6527f47" alt="Taha Taidi Laamiri"  width="300">
+        <h2>Walid Ben Slimane </h2>
+    <h2>Tech student</h2>
+    <p>Role: Web development</p>
+    <p>Skills: Robotics, Programming, 3d Design</p>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Omar Elarroud" width="300">
+        <h2>Salmane Derdeb</h2>
+        <h2>science student</h2>
+        <p>Role: Graphic Designer</p>
+       <p> Skills: Design, Programming, Robotics</p>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/6fe04c47-3c90-492c-bd40-a7436ff193d1"  width="300">
+        <h2>Mourtada TAIDI LAAMIRI</h2>
+        <h2>science student</h2>
+        <p>Role: Documentation</p>
+        <p>Skills: Robotics, Programming, 3D Designe</p>
+    </td>
+  </tr>
   </table>
 
 
