@@ -61,7 +61,7 @@
     <p><strong>Role:</strong> Team Leader & Documentation</p>
     <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/82ca7ac8-12ed-4920-ba9d-827bfd7d2949" alt="Omar Elarroud" width="300">
+    <td><img height="500px" src="https://github.com/user-attachments/assets/82ca7ac8-12ed-4920-ba9d-827bfd7d2949" alt="Omar Elarroud" width="300">
         <h2>Omar Elarroud</h2>
         <h2>Software engineer</h2>
        <p> Role: Web development</p>
