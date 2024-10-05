@@ -50,32 +50,40 @@
 <h1>🚀 Project Team</h1>
   
 
-  <div class="team-container">
-        <div class="team-member">
-            <img src="https://github.com/user-attachments/assets/b61233f2-a0fa-47de-a3f9-6007b1c1d453" alt="Salman Derdeb">
-            <h2>Salman Derdeb</h2>
-            <p><strong>Role:</strong> Designer</p>
-            <p><strong>Skills:</strong> Graphic Design, UX/UI</p>
-        </div>
-        <div class="team-member">
-            <img src="https://github.com/user-attachments/assets/331fc805-78e1-48ea-b441-33531ead54f9" alt="Walid Benslimane">
-            <h2>Walid Benslimane</h2>
-            <p><strong>Role:</strong> Web Developer</p>
-            <p><strong>Skills:</strong> HTML, CSS, JavaScript</p>
-        </div>
-        <div class="team-member">
-            <img height="300px" src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri">
-            <h2>Mortada Taidi Laamiri</h2>
-            <p><strong>Role:</strong> Documentation</p>
-            <p><strong>Skills:</strong> Technical Writing, Project Management</p>
-        </div>
-        <div class="team-member">
-            <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri">
-            <h2>Taha Taidi Laamiri</h2>
-            <p><strong>Role:</strong> Team Leader & Documentation</p>
-            <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
-        </div>
-    </div>
+ ## Team Members
+
+<div style="display: flex; justify-content: space-around;">
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/b61233f2-a0fa-47de-a3f9-6007b1c1d453" alt="Salman Derdeb" width="150">
+    <h2>Salman Derdeb</h2>
+    <p><strong>Role:</strong> Designer</p>
+    <p><strong>Skills:</strong> Graphic Design, UX/UI</p>
+</div>
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/331fc805-78e1-48ea-b441-33531ead54f9" alt="Walid Benslimane" width="150">
+    <h2>Walid Benslimane</h2>
+    <p><strong>Role:</strong> Web Developer</p>
+    <p><strong>Skills:</strong> HTML, CSS, JavaScript</p>
+</div>
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/eeddf3e4-373e-47a2-b89f-248aacf124cd" alt="Mortada Taidi Laamiri" width="150">
+    <h2>Mortada Taidi Laamiri</h2>
+    <p><strong>Role:</strong> Documentation</p>
+    <p><strong>Skills:</strong> Technical Writing, Project Management</p>
+</div>
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/12a3426f-ae99-45b6-90b2-05169ba14a44" alt="Taha Taidi Laamiri" width="150">
+    <h2>Taha Taidi Laamiri</h2>
+    <p><strong>Role:</strong> Team Leader & Documentation</p>
+    <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
+</div>
+
+</div>
+
 
 
 
