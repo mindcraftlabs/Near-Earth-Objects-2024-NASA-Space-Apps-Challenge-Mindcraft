@@ -1,0 +1,159 @@
+ /* Reset default margins and padding */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    overflow: hidden;
+    cursor: url('../images/Rocket.png'), auto;
+}
+
+/* Full-screen container for the canvas */
+#container {
+    display: flex;
+    justify-content: center;  /* Horizontally center the canvas */
+    align-items: center;      /* Vertically center the canvas */
+    width: 100vw;             /* Full window width */
+    height: 100vh;            /* Full window height */
+    background-color: black;  /* Space-like background */
+}
+
+/* Make the canvas responsive */
+#orreryCanvas {
+    width: 100%;      /* Full width of the container */
+    height: 100%;     /* Full height of the container */
+    display: block;   /* Remove any inline-block spacing */
+}
+
+/* Optional: Styling for any future controls */
+
+
+.logo {
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+/* Optional: Styling for any future controls */
+.controls {
+    position: absolute;
+    top: 10px;
+    right: 10px;  /* Position controls to the right of the screen */
+    color: white;
+    font-size: 14px;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.5);  /* Semi-transparent background */
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#searchInput {
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    flex-grow: 1;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Styling for the info box */
+#infoBox {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 60px;           /* Fixed space from the top */
+    left: 20px;         /* Fixed space from the right */
+    color: white;
+    background-color: rgba(52, 70, 104, 0.9); /* Slightly less transparency for readability */
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1000;       /* Ensure it's above other elements */
+    display: none;       /* Initially hidden */
+    width: 25%;          /* Increased width for more content */
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.6); /* Improved shadow for better contrast */
+    transition: all 0.3s ease-in-out; /* Smooth transition for showing/hiding box */
+}
+
+
+/* Styling for the planet name */
+#infoBox h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #FFD700; /* Gold color for the planet name */
+}
+
+/* Styling for the planet info */
+#infoBox p {
+    margin-top: 10px;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.planet-name {
+    position: absolute; /* Allows positioning relative to the viewport */
+    color: white; /* Text color */
+    font-size: 16px; /* Size of the text */
+    pointer-events: none; /* Prevent mouse events */
+}
+
+
+
+
+/* Sidebar styling for the icons */
+.sidebar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #000000;
+    
+}
+
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 60px;
+    }
+    
+    .sidebar img {
+        width: 30px;
+    }
+}
