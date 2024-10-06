@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: black;
     overflow: hidden;  /* Prevent scrollbars from showing */
-    cursor: url('images/Rocket.png'), auto;
+    cursor: url('https://github.com/user-attachments/assets/012e7172-cc66-4467-a81b-9a91e9c4c5b9'), auto;
 }
 
 /* Full-screen container for the canvas */
