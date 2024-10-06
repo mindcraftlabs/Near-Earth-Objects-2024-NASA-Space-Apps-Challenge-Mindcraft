@@ -10,11 +10,18 @@
 <body>
     <a class="logo" href="index.html"><img  src="images/Screenshot 2024-10-04 182236.png" alt="Logo"></a>
     <div class="controls">
-        <input type="text" id="searchInput" placeholder="Search for a planet..." />
+        <input list="planets" id="searchInput" placeholder="Search for a planet..." />
+        <datalist id="planets">
+            <option value="Mercury"></option>
+            <option value="Venus"></option>
+            <option value="Earth"></option>
+            <option value="Mars"></option>
+            <option value="Jupiter"></option>
+            <option value="Saturn"></option>
+            <option value="Uranus"></option>
+            <option value="Neptune"></option>
+        </datalist>
         <button id="searchButton">Search</button>
-        <!-- <button id="toggleOrbits">Toggle Orbits</button>
-        <button id="resetCamera">Reset Camera</button> -->
-        <!-- <button onclick="searchAndDisplayPlanetInfo()">Search</button> -->
     </div>
     
     <div id="planet-info"></div>
@@ -26,8 +33,11 @@
     </div>
 
     <!-- Info box for displaying planet information -->
-    <div id="infoBox"></div>
-
+    <div id="infoBox">
+        <img id="planetImage" src="" alt="Planet Image" style="width:100px;">
+        <p id="planetInfo"></p>
+    </div>
+    
     <!-- <div id="planetName" class="planet-name"></div> -->
 
     <!-- Icons -->
@@ -53,11 +63,10 @@
         </div>
     </div>
 
-
     <!-- Add Three.js for the 3D rendering -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/js/controls/OrbitControls.js"></script>
     <!-- Link to your script -->
-    <script src="js/solution.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
