@@ -63,15 +63,15 @@
                 <p><strong>Role:</strong> 3D Designer</p>
                 <p><strong>Skills:</strong> 3D Modeling, 3D Animation, VFX</p>
             </td>
-        </tr>
-        <tr>
-            <td>
+                        <td>
                 <img src="https://github.com/user-attachments/assets/c4e0f643-df81-4683-a413-2296e6527f47" alt="Walid Ben Slimane" width="250" height="250" style="border-radius: 50%;">
                 <h3><a href="https://github.com/walidbnslimane" target="_blank">Walid Ben Slimane</a> 🔧</h3>
                 <h3>🔧 Tech Student</h3>
                 <p><strong>Role:</strong> Web Development</p>
                 <p><strong>Skills:</strong> Robotics, Programming, 3D Design</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <img src="https://github.com/user-attachments/assets/70c6ed95-7fce-4ee0-840e-6f5b5265e15e" alt="Salmane Derdeb" width="250" height="250" style="border-radius: 50%;">
                 <h3><a href="https://github.com/salmane-derdeb" target="_blank">Salmane Derdeb</a> 🎨</h3>
