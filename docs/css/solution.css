@@ -10,6 +10,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: black;
     overflow: hidden;  /* Prevent scrollbars from showing */
+    cursor: url('../images/42598rocket_99004.png'), auto;
 }
 
 /* Full-screen container for the canvas */
@@ -40,6 +41,7 @@ body {
     background-color: rgba(0, 0, 0, 0.5);  /* Semi-transparent background */
     padding: 10px;
     border-radius: 8px;
+    cursor: text;
 }
 
 button {
