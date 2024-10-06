@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: black;
     overflow: hidden;  /* Prevent scrollbars from showing */
-    cursor: url('/images/42598rocket_99004.png'), auto;
+    cursor: url('images/42598rocket_99004.png'), auto;
 }
 
 /* Full-screen container for the canvas */
