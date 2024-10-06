@@ -1,4 +1,4 @@
- /* Reset default margins and padding */
+  /* Reset default margins and padding */
  * {
     margin: 0;
     padding: 0;
@@ -80,6 +80,10 @@ body {
 #searchButton:hover {
     background-color: #0056b3;
 }
+
+
+
+
 /* Styling for the info box */
 #infoBox {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -92,7 +96,7 @@ body {
     border-radius: 8px;
     z-index: 1000;       /* Ensure it's above other elements */
     display: none;       /* Initially hidden */
-    width: 25%;          /* Increased width for more content */
+    width: 30%;          /* Increased width for more content */
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.6); /* Improved shadow for better contrast */
     transition: all 0.3s ease-in-out; /* Smooth transition for showing/hiding box */
 }
