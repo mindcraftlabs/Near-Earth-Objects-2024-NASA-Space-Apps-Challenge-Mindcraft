@@ -57,7 +57,7 @@
                 <p><strong>Skills:</strong> Leadership, Writing, Coordination</p>
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/ed6accf1-7571-4787-beb1-b06d742ddf7b" alt="Omar Elarroud" width="300" height="280" style="border-radius: 50%;">
+                <img src="https://github.com/user-attachments/assets/ed6accf1-7571-4787-beb1-b06d742ddf7b" alt="Omar Elarroud" width="250" height="250" style="border-radius: 50%;">
                 <h3><a href="https://github.com/omarELARROUD" target="_blank">Omar Elarroud</a> 💻</h3>
                 <h3>💻 Software Engineer</h3>
                 <p><strong>Role:</strong> Web Development</p>
