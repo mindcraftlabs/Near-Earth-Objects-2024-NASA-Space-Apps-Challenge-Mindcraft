@@ -10,11 +10,18 @@
 <body>
     
     <div class="controls">
-        <input type="text" id="searchInput" placeholder="Search for a planet..." />
+        <input list="planets" id="searchInput" placeholder="Search for a planet..." />
+        <datalist id="planets">
+            <option value="Mercury"></option>
+            <option value="Venus"></option>
+            <option value="Earth"></option>
+            <option value="Mars"></option>
+            <option value="Jupiter"></option>
+            <option value="Saturn"></option>
+            <option value="Uranus"></option>
+            <option value="Neptune"></option>
+        </datalist>
         <button id="searchButton">Search</button>
-        <!-- <button id="toggleOrbits">Toggle Orbits</button>
-        <button id="resetCamera">Reset Camera</button> -->
-        <!-- <button onclick="searchAndDisplayPlanetInfo()">Search</button> -->
     </div>
     
     <div id="planet-info"></div>
