@@ -73,6 +73,7 @@ button:hover {
     transition: all 0.3s ease-in-out; /* Smooth transition for showing/hiding box */
 }
 
+
 /* Styling for the planet name */
 #infoBox h2 {
     margin: 0;
@@ -87,11 +88,57 @@ button:hover {
     line-height: 1.5;
 }
 
+
 .planet-name {
     position: absolute; /* Allows positioning relative to the viewport */
     color: white; /* Text color */
     font-size: 16px; /* Size of the text */
     pointer-events: none; /* Prevent mouse events */
+}
+
+
+
+
+/* Sidebar styling for the icons */
+.sidebar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #505ac2; /* Dark background */
+    width: 45px; /* Adjust based on your icon width */
+    height: 30vh; /* Adjust height as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border-radius: 20px;
+    /* border-bottom-right-radius: 20px; */
+    margin-bottom: 10px;
+    
+}
+
+/* .sidebar .logo {
+    font-size: 14px;
+    color: #ccc;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+} */
+
+.sidebar .icon {
+    margin-bottom: 5px;
+}
+
+.sidebar img {
+    width: 20px; /* Adjust based on your icon size */
+    height: auto;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.sidebar img:hover {
+    opacity: 1;
+    cursor: pointer;
 }
 
 /* Mobile responsiveness */
