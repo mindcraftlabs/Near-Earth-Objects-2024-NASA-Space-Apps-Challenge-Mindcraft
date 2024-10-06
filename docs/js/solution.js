@@ -236,7 +236,7 @@ function displayPlanetInfo(planet) {
 
    // Set planet image based on the planet name
    const planetImages = {
-       Mercury: 'images/mercury.png',
+       Mercury: 'images/mercury.jpg',
        Venus: 'images/venus.jpg',
        Earth: 'images/earth.jpg',
        Mars: 'images/mars.jpg',
