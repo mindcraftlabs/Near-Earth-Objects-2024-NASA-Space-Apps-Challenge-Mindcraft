@@ -39,9 +39,9 @@
 
      { name: "Earth", semiMajorAxis: 1.0 * 50, eccentricity: 0.017, speed: 0.01, rotationSpeed: 0.005, info: "Earth: Our home planet, Earth, has a day that lasts about 24 hours. The name \"Earth\" comes from the Old English word \"eorðe,\" meaning \"ground.\" It is the third-largest planet in our solar system, with a diameter of about 7,917 miles (12,742 kilometers), and it orbits the Sun at an average distance of approximately 93 million miles (150 million kilometers). Earth has one moon, commonly referred to as \"the Moon,\" and is the most massive planet in the terrestrial group, which includes Mercury, Venus, Earth, and Mars." },
 
-     { name: "Mars", semiMajorAxis: 1.52 * 50, eccentricity: 0.093, speed: 0.008, rotationSpeed: 0.006, info: "Mars: often called the Red Planet, is named after the ancient Roman god of war due to its reddish appearance. A Martian day, known as a “sol,” lasts about 24 hours and 37 minutes, slightly longer than an Earth day. Mars is about half the size of Earth, with a diameter of approximately 4,212 miles (6,779 kilometers). It is the fourth planet from the Sun, averaging a distance of 142 million miles (228 million kilometers). Mars has two small moons, Phobos and Deimos, and its mass is roughly 10% that of Earth." },
+     { name: "Mars", semiMajorAxis: 1.52 * 50, eccentricity: 0.093, speed: 0.008, rotationSpeed: 0.006, info: "Mars, often called the Red Planet, is named after the ancient Roman god of war due to its reddish appearance. A Martian day, known as a “sol,” lasts about 24 hours and 37 minutes, slightly longer than an Earth day. Mars is about half the size of Earth, with a diameter of approximately 4,212 miles (6,779 kilometers). It is the fourth planet from the Sun, averaging a distance of 142 million miles (228 million kilometers). Mars has two small moons, Phobos and Deimos, and its mass is roughly 10% that of Earth." },
 
-     { name: "Jupiter", semiMajorAxis: 5.2 * 50, eccentricity: 0.049, speed: 0.002, rotationSpeed: 0.003, info: "Jupiter: known as the gas giant, Jupiter has a day that lasts a mere 9.92 Earth hours, indicating its rapid spin on its axis. Named after the king of the Roman gods, Jupiter is the largest planet in our solar system, with a diameter more than 11 times that of Earth, capable of swallowing over 1,000 Earths! It orbits the Sun at an average distance of about 5.2 astronomical units (AU), roughly five times the distance between Earth and the Sun. As of 2024, Jupiter has 95 confirmed moons, including the famous Galilean moons: Io, Europa, Ganymede, and Callisto. Jupiter accounts for more than two-thirds of the total mass of all the planets in our solar system combined and features the Great Red Spot, an iconic storm larger than Earth. It is primarily composed of hydrogen and helium, possessing the strongest magnetic field of any planet in the solar system." },
+     { name: "Jupiter", semiMajorAxis: 5.2 * 50, eccentricity: 0.049, speed: 0.002, rotationSpeed: 0.003, info: "Known as the gas giant, Jupiter has a day that lasts a mere 9.92 Earth hours, indicating its rapid spin on its axis. Named after the king of the Roman gods, Jupiter is the largest planet in our solar system, with a diameter more than 11 times that of Earth, capable of swallowing over 1,000 Earths! It orbits the Sun at an average distance of about 5.2 astronomical units (AU), roughly five times the distance between Earth and the Sun. As of 2024, Jupiter has 95 confirmed moons, including the famous Galilean moons: Io, Europa, Ganymede, and Callisto. Jupiter accounts for more than two-thirds of the total mass of all the planets in our solar system combined and features the Great Red Spot, an iconic storm larger than Earth. It is primarily composed of hydrogen and helium, possessing the strongest magnetic field of any planet in the solar system." },
      
      { name: "Saturn", semiMajorAxis: 9.58 * 50, eccentricity: 0.056, speed: 0.001, rotationSpeed: 0.002, info: "Saturn: Often referred to as the pearl of the solar system, Saturn's day is relatively short, lasting about 10.7 hours, making it less than half a day on Earth. Named after the Roman god of agriculture, wealth, and time, Saturn is the second-largest planet in the solar system, approximately nine times the size of Earth. It orbits the Sun at a distance of about 886 million miles (1.4 billion kilometers), which is about nine times the distance between Earth and the Sun. With 83 known moons, including famous ones like Titan, Enceladus, and Rhea, Saturn has the most moons in our solar system. Its mass is about 95 times that of Earth, and its iconic rings are one of its most distinctive features." },
 
@@ -227,32 +227,10 @@ const planetNameManager = new PlanetNameManager(planets, camera);
 
  // Display planet information
  function displayPlanetInfo(planet) {
-    const infoBox = document.getElementById('infoBox');
-    const planetInfo = document.getElementById('planetInfo');
-    const planetImage = document.getElementById('planetImage');
-
-    // Set planet information text
-    planetInfo.textContent = planet.info;
-
-    // Set planet image based on the planet name
-    const planetImages = {
-        Mercury: 'images/mercury.png',
-        Venus: 'images/venus.jpg',
-        Earth: 'images/earth.jpg',
-        Mars: 'images/mars.jpg',
-        Jupiter: 'images/jupiter.jpg',
-        Saturn: 'images/saturn.jpg',
-        Uranus: 'images/uranus.jpg',
-        Neptune: 'images/neptune.jpg',
-    };
-
-    planetImage.src = planetImages[planet.name] || ''; // Set image source or leave empty if not found
-    planetImage.alt = planet.name + " image"; // Set image alt text
-
-    // Display the info box with image and text
-    infoBox.style.display = 'block';
-}
-
+     const infoBox = document.getElementById('infoBox');
+     infoBox.textContent = `${planet.name}: ${planet.info}`;
+     infoBox.style.display = 'block';
+ }
 
 
 //  Hide planet information
