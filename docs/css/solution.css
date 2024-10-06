@@ -1,3 +1,28 @@
+ /* Reset default margins and padding */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    overflow: hidden;  /* Prevent scrollbars from showing */
+}
+
+/* Full-screen container for the canvas */
+#container {
+    display: flex;
+    justify-content: center;  /* Horizontally center the canvas */
+    align-items: center;      /* Vertically center the canvas */
+    width: 100vw;             /* Full window width */
+    height: 100vh;            /* Full window height */
+    background-color: black;  /* Space-like background */
+}
+
+/* Make the canvas responsive */
 #orreryCanvas {
     width: 100%;      /* Full width of the container */
     height: 100%;     /* Full height of the container */
@@ -44,4 +69,38 @@ button:hover {
     z-index: 1000;       /* Ensure it's above other elements */
     display: none;       /* Initially hidden */
     width: 25%;          /* Increased width for more content */
-    box-shadow: 3px 3px 15
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.6); /* Improved shadow for better contrast */
+    transition: all 0.3s ease-in-out; /* Smooth transition for showing/hiding box */
+}
+
+/* Styling for the planet name */
+#infoBox h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #FFD700; /* Gold color for the planet name */
+}
+
+/* Styling for the planet info */
+#infoBox p {
+    margin-top: 10px;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.planet-name {
+    position: absolute; /* Allows positioning relative to the viewport */
+    color: white; /* Text color */
+    font-size: 16px; /* Size of the text */
+    pointer-events: none; /* Prevent mouse events */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 60px;
+    }
+    
+    .sidebar img {
+        width: 30px;
+    }
+}
